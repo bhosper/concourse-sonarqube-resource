@@ -1,0 +1,10 @@
+{
+  "params": {
+    "project_path": "maven_project",
+    "sonar_maven_plugin_version": "3.5.0.1254"
+  },
+  "source": {
+    "host_url": "https://sonar.example.com/",
+    "login": "$$ACCESS_TOKEN$$"
+  }
+}
